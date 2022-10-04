@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+    background-color: black;
+    font-family: 'Verdana', sans-serif;
+}
+header >h1{
+    text-align: center;
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+}
+
+video{
+    height: 400px;
+}
+
+main{
+    text-align: center;
+    color:white;
+}
+
+.download{
+
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.personal{
+    font-weight:300px;
+    font-size:42px;
+}
+
+.slogan{
+    color:gray;
+    font-size: 21px;
+}
+
+.copyright{
+    text-align: right;
+    color: gray;
+}
